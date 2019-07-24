@@ -5,6 +5,7 @@ import React, { useState, useEffect } from 'react'
 const Card = (props) => {
     const stars = props.stars;
     const starID = props.match.params.id;
+    
 
     const star = stars.find(star => star.id === starID);
     return (
@@ -50,6 +51,14 @@ const Card = (props) => {
                                 <ul>Favorite Hobbies: <span className="has-text-grey">
                                     {star.hobbies.map((hobby, index) => (
                                         <li key={index}>{hobby}</li>
+                                    ))}
+                                    </span>
+                                </ul>   
+                                </div>
+                                <div className="column">
+                                <ul>Superhero Power: <span className="has-text-grey">
+                                    {star.superhero_powers.map((superhero, index) => (
+                                        <li key={index}>{superhero}</li>
                                     ))}
                                     </span>
                                 </ul>   
