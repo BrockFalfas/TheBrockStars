@@ -5,7 +5,8 @@ const stars = [
         "favorite_foods":["sushi","tacos","pastrami sandwitch","house salad"],
         "favorite_musics": ["variety"],
         "favorite_vacation_locations": ["Tokyo, Japan"],
-        "hobbies": ["coding", "running"]
+        "hobbies": ["coding", "running"],
+        "superhero_powers": ["invisible", "strength"]
     },
     {   "id": "1",
         "name":"Brock Falfas",
@@ -13,7 +14,8 @@ const stars = [
         "favorite_foods":[],
         "favorite_musics": [],
         "favorite_vacation_locations": [],
-        "hobbies": []
+        "hobbies": [],
+        "superhero_powers": []
     },
     {   "id": "2",
         "name":"Eli Sacks",
@@ -21,7 +23,8 @@ const stars = [
         "favorite_foods":[],
         "favorite_musics": [],
         "favorite_vacation_locations": [],
-        "hobbies": []
+        "hobbies": [],
+        "superhero_powers": []
     },
     {   "id": "2",
         "name":"Bishop Lake",
@@ -29,7 +32,8 @@ const stars = [
         "favorite_foods":[],
         "favorite_musics": [],
         "favorite_vacation_locations": [],
-        "hobbies": []
+        "hobbies": [],
+        "superhero_powers": []
     },
     {   "id": "4",
         "name":"Andrew Allen",
@@ -37,7 +41,8 @@ const stars = [
         "favorite_foods":[],
         "favorite_musics": [],
         "favorite_vacation_locations": [],
-        "hobbies": []
+        "hobbies": [],
+        "superhero_powers": []
     },
     {   "id": "5",
         "name":"Sheila Eichenberger",
@@ -45,7 +50,8 @@ const stars = [
         "favorite_foods":[],
         "favorite_musics": [],
         "favorite_vacation_locations": [],
-        "hobbies": []
+        "hobbies": [],
+        "superhero_powers": []
     },
     {   "id": "6",
         "name":"Avni Patel Thompson",
@@ -53,7 +59,8 @@ const stars = [
         "favorite_foods":[],
         "favorite_musics": [],
         "favorite_vacation_locations": [],
-        "hobbies": []
+        "hobbies": [],
+        "superhero_powers": []
     },
     {   "id": "7",
         "name":"Armando Roman",
@@ -61,7 +68,8 @@ const stars = [
         "favorite_foods":[],
         "favorite_musics": [],
         "favorite_vacation_locations": [],
-        "hobbies": []
+        "hobbies": [],
+        "superhero_powers": []
     },
     {   "id": "8",
         "name":"Suparada Saitalae",
@@ -69,7 +77,8 @@ const stars = [
         "favorite_foods":[],
         "favorite_musics": [],
         "favorite_vacation_locations": [],
-        "hobbies": []
+        "hobbies": [],
+        "superhero_powers": []
     }
 ]
 
