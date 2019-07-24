@@ -1,3 +1,6 @@
+## Instructions
+2019-07-23: Add basic data into data.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
