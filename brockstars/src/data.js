@@ -37,12 +37,12 @@ const stars = [
     },
     {   "id": "4",
         "name":"Andrew Allen",
-        "hometown": "",
-        "favorite_foods":[],
-        "favorite_musics": [],
-        "favorite_vacation_locations": [],
-        "hobbies": [],
-        "superhero_powers": []
+        "hometown": "Houston",
+        "favorite_foods":["Burgers","Chicken Alfredo","Pizza"],
+        "favorite_musics": ["Lo-Fi"],
+        "favorite_vacation_locations": ["Bahamas","Chicago"],
+        "hobbies": ["Exercising","Games"],
+        "superhero_powers": ["Confusion"]
     },
     {   "id": "5",
         "name":"Sheila Eichenberger",
