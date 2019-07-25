@@ -1,3 +1,7 @@
+import axios from 'axios'
+
+
+
 const stars = [
     {   "id": "0",
         "name":"Thai Nguyen",
@@ -65,11 +69,11 @@ const stars = [
     {   "id": "7",
         "name":"Armando Roman",
         "hometown": "CA",
-        "favorite_foods":[],
-        "favorite_musics": [],
-        "favorite_vacation_locations": [],
-        "hobbies": [],
-        "superhero_powers": []
+        "favorite_foods":['Ribs', 'Chicken', 'Anything Beef'],
+        "favorite_musics": ['Not Picky'],
+        "favorite_vacation_locations": ['Anywhere Near Water'],
+        "hobbies": ['Cooking', 'Family Time', 'Gym'],
+        "superhero_powers": ['Super Fast']
     },
     {   "id": "8",
         "name":"Suparada Saitalae",
