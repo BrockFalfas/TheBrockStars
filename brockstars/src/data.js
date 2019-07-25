@@ -19,12 +19,12 @@ const stars = [
     },
     {   "id": "2",
         "name":"Eli Sacks",
-        "hometown": "",
-        "favorite_foods":[],
-        "favorite_musics": [],
-        "favorite_vacation_locations": [],
-        "hobbies": [],
-        "superhero_powers": []
+        "hometown": "Toledo",
+        "favorite_foods":["Stir-Fry", "Chicken", "Sushi"],
+        "favorite_musics": ["Ska", "Pop crap"],
+        "favorite_vacation_locations": ["Tokyo", "Vancouver"],
+        "hobbies": ["Tabletop RPG", "Video Games"],
+        "superhero_powers": ["none", "suckitude"]
     },
     {   "id": "2",
         "name":"Bishop Lake",
