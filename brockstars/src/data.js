@@ -73,12 +73,12 @@ const stars = [
     },
     {   "id": "8",
         "name":"Suparada Saitalae",
-        "hometown": "",
-        "favorite_foods":[],
-        "favorite_musics": [],
-        "favorite_vacation_locations": [],
-        "hobbies": [],
-        "superhero_powers": []
+        "hometown": "Tulsa, Oklahoma",
+        "favorite_foods":["Tomyum", "Curry"],
+        "favorite_musics": ["Acoustic"],
+        "favorite_vacation_locations": ["Korea", "Maxico"],
+        "hobbies": ["Eat"],
+        "superhero_powers": ["Elsa", "Doraemon"]
     }
 ]
 
