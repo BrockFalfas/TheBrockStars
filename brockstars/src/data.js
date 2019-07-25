@@ -15,7 +15,7 @@ const stars = [
         "favorite_musics": ["Acceptance, AJR & Parachute"],
         "favorite_vacation_locations": ["Anywhere Warm"],
         "hobbies": ["Computers, Sports & Crypto"],
-        "superhero_powers": ["Code Spews Out of Me"]
+        "superhero_powers": ["CodeMAN"]
     },
     {   "id": "2",
         "name":"Eli Sacks",
