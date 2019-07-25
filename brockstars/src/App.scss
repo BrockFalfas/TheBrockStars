@@ -1,0 +1,51 @@
+html {
+    background: url(./assets/background.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.content-section {
+    margin: 30px;
+    background-image: linear-gradient(to top, rgba(255,255,255,0.3), rgba(255,255,255,0.3), rgba(255,255,255,0.3), rgba(255,255,255,0.5)), ;
+    position: relative;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
+    border-radius: 20px;
+    padding: 20px;
+
+    .cards-container {
+        display: flex;
+        justify-content: space-between;
+
+
+        .menu-container {
+            width: 20%;
+            
+            .menu-label, a {
+                color: white;
+                width: 90%;
+
+               
+            }
+            
+            a {
+                
+                transition: 0.2s;
+                border-radius: 10px;
+
+                &:hover {
+                    background: rgba(255,255,255,0.4)
+                }
+
+
+            }
+        }
+
+        .card-container {
+            width: 80%;
+            
+        }
+    }
+
+}
