@@ -10,12 +10,12 @@ const stars = [
     },
     {   "id": "1",
         "name":"Brock Falfas",
-        "hometown": "Florida",
-        "favorite_foods":[],
-        "favorite_musics": [],
-        "favorite_vacation_locations": [],
-        "hobbies": [],
-        "superhero_powers": []
+        "hometown": "Sarasota, Florida",
+        "favorite_foods":["Mexican (Enchiladas and Tacos) & Italian (Manicotti and Penne)"],
+        "favorite_musics": ["Acceptance, AJR & Parachute"],
+        "favorite_vacation_locations": ["Anywhere Warm"],
+        "hobbies": ["Computers, Sports & Crypto"],
+        "superhero_powers": ["Code Spews Out of Me"]
     },
     {   "id": "2",
         "name":"Eli Sacks",
