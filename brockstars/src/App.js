@@ -3,6 +3,8 @@ import {BrowserRouter as Router, Route} from "react-router-dom";
 import Navbar from "./components/NavBar/Navbar";	
 import Home from "./views/Home/Home";
 import './App.css';
+import './App.scss';
+
 
 
 

@@ -6,10 +6,10 @@ import Card from "../../components/Card/Card";
 
 const Home = () => {
     return (
-        <section className="section">
-            <div className="container">
-                <div className="columns">
-                    <div className="column is-one-quarter">
+        <section className="content-section">
+            <div className="">
+                <div className="cards-container">
+                    <div className="menu-container">
                         <aside className="menu">
                             <p className="menu-label is-size-4">Stars</p>
                             <ul className="menu-list">
@@ -19,7 +19,7 @@ const Home = () => {
                             </ul>
                         </aside>
                     </div>
-                    <div className="column is-two-third">
+                    <div className="card-container">
                         
                         <Route path="/:id" render={props => <Card {...props} stars={stars}/>}/>                
                     </div>
